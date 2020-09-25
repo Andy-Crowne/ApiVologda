@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppForDosug</string>
+
+    <string-array name="vidOfObjects">
+        <item>-------</item>
+        <item>Ансамбль</item>
+        <item>Памятник</item>
+    </string-array>
+</resources>
