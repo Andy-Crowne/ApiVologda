@@ -42,7 +42,6 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, response.code(), Toast.LENGTH_SHORT).show()
             }
         })
-
     }
 
     private fun setupRecyclerview() {
